@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Monsters Rolodex 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+#### Building a massive E-commerce Java app highlighting React.js, Stripe, API incorporation, Redux, Hooks, GraphQL
 ## Available Scripts
 
 In the project directory, you can run:
